@@ -10,7 +10,7 @@ Documentation can be found at this
 ## Table Of Content
 
 - [Introduction](#introduction)
-- [Enviroment requirement](#enviroment-requirement)
+- [Environment requirement](#enviroment-requirement)
   - [develop requirement](#develop-requirement)
   - [Runtime requirement](#runtime-requirement)
 - [Installation](#installation)
@@ -25,7 +25,7 @@ Documentation can be found at this
 The demo implements the HUAWEI Identity API to obtain the user address interface, and assembles and returns the selected address information to the interface.
 
 
-## Enviroment requirement
+## Environment requirement
 
 ### Develop requirement
 
