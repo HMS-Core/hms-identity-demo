@@ -1,5 +1,7 @@
 # 华为用户身份服务客户端示例代码
 
+中文 | [English](https://github.com/HMS-Core/hms-identity-demo/blob/master/README.md)
+
 该示例代码介绍了华为用户身份服务（HUAWEI Identity Kit）客户端接口以及如何使用这些接口。
 
 [参考文档](https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/about-the-service).
