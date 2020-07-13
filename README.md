@@ -1,5 +1,7 @@
 # Huawei Identity Demo
 
+English | [中文](https://github.com/HMS-Core/hms-identity-demo/blob/master/README_ZH.md)
+
 The demo App demonstrates Huawei Identity client APIs and usages. 
 
 Documentation can be found at this 
