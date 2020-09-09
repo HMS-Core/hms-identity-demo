@@ -88,6 +88,8 @@ for guide of adopting Huawei Identity.
    The code location is in the onActivityResult method in the src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java file.
 
 ## Question or issues
+If you want to evaluate more about HMS Core, [r/HMSCore on Reddit](https://www.reddit.com/r/HMSCore/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
+
 If you have questions about how to use HMS samples, try the following options:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services) is the best place for any programming questions. Be sure to tag your question with 
 **huawei-mobile-services**.
