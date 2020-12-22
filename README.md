@@ -12,7 +12,7 @@ Documentation can be found at this
 ## Table Of Content
 
 - [Introduction](#introduction)
-- [Environment requirement](#enviroment-requirement)
+- [Environment requirement](#environment-requirement)
   - [develop requirement](#develop-requirement)
   - [Runtime requirement](#runtime-requirement)
 - [Installation](#installation)
@@ -79,13 +79,13 @@ for guide of adopting Huawei Identity.
 ### Obtaining a User Address
 
 1. Instantiate the request object by using the **new UserAddressRequest** method. Then, call the **getUserAdddress** API.
-   The code location is in the getUserAddress method in the src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java file.
+   The code location is in the getUserAddress method in the `src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java` file.
 
 2. Display the address selection page by calling the **startActivityResult** method of **Status**.
-   The code location is in the startActivityForResult method in the src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java file.
+   The code location is in the startActivityForResult method in the `src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java` file.
 
 3. After the user selects an address, call the **parseIntent** method of **UserAddress** in **onActivityResult** of the page and obtain the address from the returned result.
-   The code location is in the onActivityResult method in the src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java file.
+   The code location is in the onActivityResult method in `the src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java` file.
 
 ## Question or issues
 If you want to evaluate more about HMS Core, [r/HMSCore on Reddit](https://www.reddit.com/r/HuaweiDevelopers/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
