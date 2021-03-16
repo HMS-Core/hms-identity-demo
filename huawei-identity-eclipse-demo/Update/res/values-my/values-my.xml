@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"AppGallery အား ဒေါင်းလုဒ်ဆွဲနေပါသည်"</string>
+    <string name="upsdk_app_download_info_new" priority="LT">"ထည့်သွင်းမည်"</string>
+    <string name="upsdk_app_size" priority="LT">"အရွယ်အစား"</string>
+    <string name="upsdk_app_version" priority="LT">"ဗားရှင်း"</string>
+    <string name="upsdk_cancel" priority="LT">"မပယ်ဖျက်ပါ"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"အပ်ဒိတ်အတွက် စစ်ဆေးနေဆဲ..."</string>
+    <string name="upsdk_choice_update" priority="LT">"အပ်ဒိတ် ရရှိနိုင်ပါပြီ။ နောက်ဆုံး ဗားရှင်းအား ဒေါင်းလုဒ်ဆွဲပြီး ထည့်သွင်းပေးပါ။"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"ဆာဗာနှင့် ချိတ်ဆက်၍ မရနိုင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။"</string>
+    <string name="upsdk_detail" priority="LT">"အသေးစိတ် အချက်အလက်များ"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"အချက်အလက်များကို ပြန်လည်ရယူ၍ ရနိုင်မည် မဟုတ်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။"</string>
+    <string name="upsdk_install" priority="LT">"အပ်ဒိတ်လုပ်ရန် AppGallery ကို ထည့်သွင်းပါ။ ယခု ထည့်သွင်းမည်လား။"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"အင်တာနက် ချိတ်ဆက်မှု မၡိပါ။ ကျေးဇူးပြု၍ သင့်ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ။"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"အက်ပ်"</string>
+    <string name="upsdk_ota_cancel" priority="LT">"နောက်မှ"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"ထွက်မည်"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="LT">"အပ်ဒိတ်"</string>
+    <string name="upsdk_ota_title" priority="LT">"ဗားရှင်းအသစ်"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"ထည့်သွင်းမှုအား ပယ်ဖျက်မည်လား။"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"ထည့်သွင်းမှု မအောင်မြင်ခဲ့ပါ။"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"ပယ်ဖျက်မည်"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"သင့်ဗားရှင်းသည် အပ်ဒိတ်ဖြစ်နေပါပြီ။"</string>
+    <string name="upsdk_updating" priority="LT">"အပ်ဒိတ်လုပ်နေဆဲ"</string>
+</resources>

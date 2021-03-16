@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"AppGallery yuklab olinmoqda"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"O‘rnatish"</string>
+    <string name="upsdk_app_size" priority="translator">"Hajmi"</string>
+    <string name="upsdk_app_version" priority="translator">"Versiyasi"</string>
+    <string name="upsdk_cancel" priority="translator">"Bekor qilish"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Yangilanish borligi tekshirilmoqda…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Yangilanish chiqdi. Eng oxirgi versiyasini yuklab oling va o‘rnating."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Serverga ulanib bo‘lmadi. Keyinroq qayta urining."</string>
+    <string name="upsdk_detail" priority="translator">"Tafsilotlar"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Ma’lumotlar olinmadi. Keyinroq qayta urining."</string>
+    <string name="upsdk_install" priority="LT">"Yangilash uchun AppGallery ilovasini o‘rnating. Hozir o‘rnatilsinmi?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Internet aloqasi yo‘q. Tarmoq sozlamalarini tekshiring."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Ilova"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Keyinroq"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Chiqish"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Yangilash"</string>
+    <string name="upsdk_ota_title" priority="translator">"Yangi versiya"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"O‘rnatish bekor qilinsinmi?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"O‘rnatish amalga oshmadi."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Ha"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Eng yangi versiyasidan foydalanyapsiz."</string>
+    <string name="upsdk_updating" priority="translator">"Yangilanmoqda"</string>
+</resources>

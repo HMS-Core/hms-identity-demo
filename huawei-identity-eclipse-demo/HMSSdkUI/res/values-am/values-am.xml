@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"አቁም"</string>
+    <string name="hms_abort_message" priority="translator">"ማውረድ ይቁም?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s Huawei Mobile Servicesን ለመጠቀም አይችልም። ማትቢያን (የስልክ አስተዳዳሪ) ያስጀምሩ ወይም ወደ ቅንብሮች ይሂዱ እና ለ %2$s (ራስሰር ማስጀመሪያ እና ሁለተኛ ደረጃ ማስጀመሪያን ጨምሮ) ሁሉንም ፈቃዶች ያንቁ እና እንደገና ይሞክሩ።"</string>
+    <string name="hms_cancel" priority="translator">"ይቅር"</string>
+    <string name="hms_check_failure" priority="translator">"ዝማኔዎች መኖራቸውን መፈተሽ አልተሳካም።"</string>
+    <string name="hms_check_no_update" priority="translator">"ስሪትዎ የተዘመነ ነው።"</string>
+    <string name="hms_checking" priority="translator">"አዘምኖችን በመመልከት ላይ..."</string>
+    <string name="hms_confirm" priority="translator">"ይሁን"</string>
+    <string name="hms_download_failure" priority="translator">"የ Huawei Mobile Services ጥቅልን ማውረድ አልተቻለም።"</string>
+    <string name="hms_download_no_space" priority="translator">"በቂ ነጻ ባዶ ቦታ የለም። ማውረድ ሊጠናቀቅ አይችልም።"</string>
+    <string name="hms_download_retry" priority="translator">"አዉርድ አልተሳካም። እንደገና ይሞክር?"</string>
+    <string name="hms_downloading" priority="translator">"Huawei Mobile Servicesን በማውረድ ላይ\nግስጋሴ፦ %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"በማውረድ ላይ"</string>
+    <string name="hms_downloading_new" priority="translator">"HMSን በማውረድ ላይ"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"ጫን"</string>
+    <string name="hms_install_message" priority="translator">"ይህን ባህሪ ለመጠቀም Huawei Mobile Services መጫን አለበት። ይጫን?"</string>
+    <string name="hms_retry" priority="translator">"ድጋሚ ሞክር"</string>
+    <string name="hms_update" priority="translator">"አዘምን"</string>
+    <string name="hms_update_continue" priority="LT">"አውርድ"</string>
+    <string name="hms_update_message" priority="translator">"ይህን ባህሪ ለመጠቀም ወደ የቅርብ ጊዜው Huawei Mobile Services ስሪት ያዘምኑ። አሁን ይዘምን?"</string>
+    <string name="hms_update_message_new" priority="translator">"ይህ አገልግሎት የቅርብ የሆነውን መተግበሪያ ይፈልጋል\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"ምንም የWi-Fi ግንኙነት የለም። የሞባይል ውሂብን በመጠቀም ይውረድ?"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+</resources>

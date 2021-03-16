@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"در حال دانلود AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"نصب"</string>
+    <string name="upsdk_app_size" priority="translator">"اندازه"</string>
+    <string name="upsdk_app_version" priority="translator">"نسخه"</string>
+    <string name="upsdk_cancel" priority="translator">"لغو"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"در حال بررسی به‌روزرسانی‌ها..."</string>
+    <string name="upsdk_choice_update" priority="LT">"به‌روز‌رسانی موجود است. لطفاً جدیدترین نسخه را دانلود و نصب کنید."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"اتصال به سرور مقدور نیست. لطفاً بعداً دوباره امتحان کنید."</string>
+    <string name="upsdk_detail" priority="translator">"جزئیات"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"بازیابی اطلاعات مقدور نیست. لطفاً بعداً دوباره امتحان کنید."</string>
+    <string name="upsdk_install" priority="LT">"برای به‌روزرسانی، AppGallery را نصب کنید. اکنون نصب شود؟"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"اتصال اينترنتی موجود نیست. لطفاً تنظیمات شبکۀ خود را بررسی کنید."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"برنامه"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"بعداً"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"خروج"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"به‌روزرسانى"</string>
+    <string name="upsdk_ota_title" priority="translator">"نسخۀ جدید"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s مگابایت"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"نصب لغو شود؟"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"نصب انجام نشد."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"بله"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"نسخۀ شما به‌روز است."</string>
+    <string name="upsdk_updating" priority="translator">"در حال به‌روزرسانی"</string>
+</resources>

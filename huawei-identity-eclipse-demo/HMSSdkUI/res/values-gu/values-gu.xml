@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"રોકો"</string>
+    <string name="hms_abort_message" priority="translator">"ડાઉનલોડ કરવાનું રોકીએ?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s Huawei Mobile Services ઉપયોગ કરવા અસમર્થ છે. કૃપા કરીને ઑપ્ટિમાઇઝર (ફોન મેનેજર) લોંચ કરો અથવા સેટિંગ્સ પર જાઓ, %2$s માટે તમામ પરવાનગીઓ (સ્વતઃ-લોન્ચ કરો અને સેકંડરી લોંચ સહિત) સક્ષમ કરો અને ફરીથી પ્રયાસ કરો."</string>
+    <string name="hms_cancel" priority="translator">"રદ કરો"</string>
+    <string name="hms_check_failure" priority="translator">"અપડેટ્સ માટે તપાસ કરવામાં નિષ્ફળ."</string>
+    <string name="hms_check_no_update" priority="translator">"તમારું સંસ્કરણ અપ ટુ ડેટ છે."</string>
+    <string name="hms_checking" priority="translator">"અપડેટ માટે તપાસી રહ્યું છે..."</string>
+    <string name="hms_confirm" priority="translator">"ઑકે"</string>
+    <string name="hms_download_failure" priority="translator">"Huawei Mobile Services નું પૅકેજ ડાઉનલોડ કરવામાં નિષ્ફળ."</string>
+    <string name="hms_download_no_space" priority="translator">"પુરતા પ્રમાણમાં ખાલી જગ્યા નથી. ડાઉનલોડ પૂર્ણ કરી શકાતુ નથી."</string>
+    <string name="hms_download_retry" priority="translator">"ડાઉનલોડ નિષ્ફળ. ફરીથી પ્રયત્ન કરવો છે?"</string>
+    <string name="hms_downloading" priority="translator">"Huawei Mobile Services \nપ્રગતિ ડાઉનલોડ કરી રહ્યું છે: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"ડાઉનલોડ થઇ રહ્યું છે"</string>
+    <string name="hms_downloading_new" priority="translator">"HMS ડાઉનલોડ કરાઇ રહ્યું છે"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"ઇન્સ્ટોલ કરો"</string>
+    <string name="hms_install_message" priority="translator">"આ સુવિધાનો ઉપયોગ કરવા માટે Huawei Mobile Services ઇન્સ્ટોલ કરવી અનિવાર્ય છે. ઇન્સ્ટોલ કરવું છે?"</string>
+    <string name="hms_retry" priority="translator">"પુન:પ્રયાસ કરો"</string>
+    <string name="hms_update" priority="translator">"અપડેટ કરો"</string>
+    <string name="hms_update_continue" priority="LT">"ડાઉનલોડ કરો"</string>
+    <string name="hms_update_message" priority="translator">"આ સુવિધાનો ઉપયોગ કરવા માટે Huawei Mobile Services અદ્યતન સંસ્કરણ પર અપડેટ કરો. અત્યારે અપડેટ કરવું છે?"</string>
+    <string name="hms_update_message_new" priority="translator">"આ સેવાને નીચેની એપના લેટેસ્ટ સંસ્કરણ ની જરૂર છે:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"કોઇ Wi-Fi કનેક્શન નથી. મોબાઇલ ડેટાના ઉપયોગથી ડાઉનલોડ કરવું છે?"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+</resources>

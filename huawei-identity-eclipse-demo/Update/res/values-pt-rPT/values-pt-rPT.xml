@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"A transferir o AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Instalar"</string>
+    <string name="upsdk_app_size" priority="translator">"Tamanho:"</string>
+    <string name="upsdk_app_version" priority="translator">"Versão:"</string>
+    <string name="upsdk_cancel" priority="translator">"Cancelar"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"A procurar atualizações…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Atualização disponível. Transfira e instale a versão mais recente."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Não é possível ligar ao servidor."</string>
+    <string name="upsdk_detail" priority="translator">"Detalhes"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Não é possível obter a informação."</string>
+    <string name="upsdk_install" priority="LT">"Instale a atualização do AppGallery. Instalar?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Sem ligação à Internet. Verifique as definições de rede."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Aplicação:"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Mais tarde"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Sair"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Atualizar"</string>
+    <string name="upsdk_ota_title" priority="translator">"Versão nova"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Cancelar a instalação?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Falha ao instalar."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"OK"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"A versão está atualizada."</string>
+    <string name="upsdk_updating" priority="translator">"A atualizar"</string>
+</resources>

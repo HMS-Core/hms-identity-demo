@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Остановить"</string>
+    <string name="hms_abort_message" priority="translator">"Остановить загрузку?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s не может использовать Мобильные службы Huawei. Перейдите в Диспетчер (Диспетчер телефона) или Настройки, предоставьте все права для %2$s (включая автозапуск и косвенный запуск) и повторите попытку."</string>
+    <string name="hms_cancel" priority="translator">"Отмена"</string>
+    <string name="hms_check_failure" priority="translator">"Сбой проверки обновлений."</string>
+    <string name="hms_check_no_update" priority="translator">"Это последняя версия."</string>
+    <string name="hms_checking" priority="translator">"Проверка обновлений..."</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Сбой загрузки пакета мобильных служб Huawei Mobile Services."</string>
+    <string name="hms_download_no_space" priority="translator">"Недостаточно памяти. Невозможно завершить загрузку."</string>
+    <string name="hms_download_retry" priority="translator">"Сбой загрузки. Повторить попытку?"</string>
+    <string name="hms_downloading" priority="translator">"Загрузка мобильных служб Huawei Mobile Services | выполнено: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Загрузка"</string>
+    <string name="hms_downloading_new" priority="LT">"Загрузка HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Установить"</string>
+    <string name="hms_install_message" priority="translator">"Для использования этой функции необходимо установить мобильные службы Huawei Mobile Services. Установить?"</string>
+    <string name="hms_retry" priority="translator">"Повтор"</string>
+    <string name="hms_update" priority="translator">"Обновить"</string>
+    <string name="hms_update_continue" priority="LT">"Загрузить"</string>
+    <string name="hms_update_message" priority="translator">"Чтобы использовать эту функцию, необходимо обновить мобильные службы Huawei Mobile Service до последней версии. Обновить?"</string>
+    <string name="hms_update_message_new" priority="LT">"Для работы этой службы требуется последняя версия приложения:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Нет Wi-Fi-соединения. Загрузить по мобильной сети передачи данных?"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+</resources>

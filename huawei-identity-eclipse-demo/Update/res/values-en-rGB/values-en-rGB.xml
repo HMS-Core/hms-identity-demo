@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Downloading AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Install"</string>
+    <string name="upsdk_app_size" priority="translator">"Size"</string>
+    <string name="upsdk_app_version" priority="translator">"Version"</string>
+    <string name="upsdk_cancel" priority="translator">"Cancel"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Checking for updates…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Update available. Please download and install the latest version."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Unable to connect to server. Please try again later."</string>
+    <string name="upsdk_detail" priority="translator">"Details"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Unable to retrieve information. Please try again later."</string>
+    <string name="upsdk_install" priority="LT">"Install AppGallery to update. Install now?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"No Internet connection. Please check your network settings."</string>
+    <string name="upsdk_ota_app_name" priority="translator">"App"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Later"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"Exit"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Update"</string>
+    <string name="upsdk_ota_title" priority="translator">"New version"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Cancel the installation?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Installation failed."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Yes"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"Your version is up to date."</string>
+    <string name="upsdk_updating" priority="translator">"Updating"</string>
+</resources>

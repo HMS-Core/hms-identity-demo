@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Téléchargement d\'AppGallery en cours."</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Installer"</string>
+    <string name="upsdk_app_size" priority="LT">"Taille :"</string>
+    <string name="upsdk_app_version" priority="LT">"Version :"</string>
+    <string name="upsdk_cancel" priority="translator">"Annuler"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Recherche de mises à jour en cours."</string>
+    <string name="upsdk_choice_update" priority="LT">"Mise à jour disponible. Mettre à jour ?"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"La connexion au serveur ne peut pas être établie. Veuillez réessayer ultérieurement."</string>
+    <string name="upsdk_detail" priority="LT">"Détails :"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Les informations ne peuvent pas être récupérées. Veuillez réessayer ultérieurement."</string>
+    <string name="upsdk_install" priority="LT">"Installer AppGallery pour mettre à jour ?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Aucune connexion Internet. Veuillez vérifier les paramètres réseau."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Application :"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Ultérieurement"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Quitter"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Mettre à jour"</string>
+    <string name="upsdk_ota_title" priority="translator">"Nouvelle version"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s Mo"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"L\'installation va être annulée. Confirmer ?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"L\'installation a échoué."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Confirmer"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Votre version est à jour."</string>
+    <string name="upsdk_updating" priority="translator">"Mise à jour en cours"</string>
+</resources>

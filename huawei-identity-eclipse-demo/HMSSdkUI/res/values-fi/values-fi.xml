@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Lopeta"</string>
+    <string name="hms_abort_message" priority="translator">"Pysäytetäänkö lataus?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s ei voi käyttää Huawei Mobile Services -palveluja. Käynnistä Optimoija (puhelimen hallinta) tai mene kohtaan Asetukset, ota käyttöön kaikki luvat palvelulle %2$s (mukaan lukien automaattinen käynnistys ja toissijainen käynnistys) ja yritä uudelleen."</string>
+    <string name="hms_cancel" priority="translator">"Peruuta"</string>
+    <string name="hms_check_failure" priority="translator">"Päivitysten tarkistaminen epäonnistui."</string>
+    <string name="hms_check_no_update" priority="translator">"Versiosi on ajan tasalla."</string>
+    <string name="hms_checking" priority="translator">"Tarkistetaan päivityksiä…"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Huawein mobiilipalvelupaketin lataus epäonnistui."</string>
+    <string name="hms_download_no_space" priority="translator">"Vapaa tila ei riitä. Latausta ei voi suorittaa."</string>
+    <string name="hms_download_retry" priority="translator">"Lataaminen epäonnistui. Yritetäänkö uudelleen?"</string>
+    <string name="hms_downloading" priority="translator">"Huawein mobiilidatapalveluja ladataan | edistyminen: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Ladataan"</string>
+    <string name="hms_downloading_new" priority="LT">"Ladataan HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Asenna"</string>
+    <string name="hms_install_message" priority="translator">"Huawei-mobiilipalvelut pitää olla asennettuna, jotta tätä ominaisuutta voi käyttää. Asennetaanko?"</string>
+    <string name="hms_retry" priority="translator">"Yritä uudelleen"</string>
+    <string name="hms_update" priority="translator">"Päivitä"</string>
+    <string name="hms_update_continue" priority="LT">"Lataa"</string>
+    <string name="hms_update_message" priority="translator">"Päivitä Huawein mobiilipalvelujen uusimpaan versioon, jotta voit käyttää tätä ominaisuutta. Päivitetäänkö nyt?"</string>
+    <string name="hms_update_message_new" priority="LT">"Tämä palvelu vaatii seuraavan sovelluksen uusimman version:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Ei Wi-Fi-yhteyttä. Päivitetäänkö käyttämällä mobiilidataa?"</string>
+    <string name="hms_update_title" priority="translator">"Huawein mobiilipalvelut"</string>
+</resources>

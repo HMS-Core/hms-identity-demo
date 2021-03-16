@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Atsisiunčiama „AppGallery“"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Įdiegti"</string>
+    <string name="upsdk_app_size" priority="translator">"Dydis"</string>
+    <string name="upsdk_app_version" priority="translator">"Versija"</string>
+    <string name="upsdk_cancel" priority="translator">"Atšaukti"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Ieškoma naujinių…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Išleistas naujinys. Atsisiųskite ir įdiekite naujausią versiją."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Nepavyksta prisijungti prie serverio. Bandykite vėliau dar kartą."</string>
+    <string name="upsdk_detail" priority="translator">"Išsami informacija"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Nepavyksta gauti informacijos. Bandykite vėliau dar kartą."</string>
+    <string name="upsdk_install" priority="LT">"Įdiekite „AppGallery“, kad atnaujintumėte. Ar įdiegti dabar?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Nėra interneto ryšio. Pasitikrinkite tinklo nuostatas."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Programėlė"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Vėliau"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Išeiti"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Naujinti"</string>
+    <string name="upsdk_ota_title" priority="translator">"Nauja versija"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Ar atšaukti diegimą?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Įdiegti nepavyko."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Taip"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Naudojate naujausią versiją."</string>
+    <string name="upsdk_updating" priority="translator">"Naujinama"</string>
+</resources>

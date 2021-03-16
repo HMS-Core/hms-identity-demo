@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Изтегляне на AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Инсталиране"</string>
+    <string name="upsdk_app_size" priority="translator">"Размер"</string>
+    <string name="upsdk_app_version" priority="translator">"Версия"</string>
+    <string name="upsdk_cancel" priority="translator">"Отказ"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Проверка за актуализации…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Налична е актуализация. Изтеглете и инсталирайте най-новата версия."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Невъзможно свързване със сървъра. Моля, опитайте отново по-късно."</string>
+    <string name="upsdk_detail" priority="translator">"Подробности"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Невъзможно извличане на данни. Моля, опитайте отново по-късно."</string>
+    <string name="upsdk_install" priority="LT">"Инсталирайте AppGallery, за да актуализирате. Инсталиране сега?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Няма връзка с интернет. Проверете мрежовите настройки."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Приложение"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"По-късно"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Изход"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Актуализиране"</string>
+    <string name="upsdk_ota_title" priority="translator">"Нова версия"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Отмяна на инсталацията?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Неуспешна инсталация."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Да"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Версията ви е актуална."</string>
+    <string name="upsdk_updating" priority="translator">"Актуализиране"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Se descarcă AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Instalare"</string>
+    <string name="upsdk_app_size" priority="translator">"Dimensiune"</string>
+    <string name="upsdk_app_version" priority="translator">"Versiune"</string>
+    <string name="upsdk_cancel" priority="translator">"Anulați"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Se caută actualizări..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Actualizare disponibilă. Descărcați și instalați cea mai recentă versiune."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Nu se poate conecta la server. Încercați din nou mai târziu."</string>
+    <string name="upsdk_detail" priority="translator">"Detalii"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Nu se pot regăsi informații. Încercați din nou mai târziu."</string>
+    <string name="upsdk_install" priority="LT">"Instalați AppGallery pentru a actualiza. Instalați acum?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Fără conexiune la internet. Verificați setările de rețea."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Aplicație"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Mai târziu"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Ieșire"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Actualizare"</string>
+    <string name="upsdk_ota_title" priority="translator">"Versiune nouă"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Anulați instalarea?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Instalarea a eșuat."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Da"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Versiunea dvs. este actualizată."</string>
+    <string name="upsdk_updating" priority="translator">"Se actualizează"</string>
+</resources>

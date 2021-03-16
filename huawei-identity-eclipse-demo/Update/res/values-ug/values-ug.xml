@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"خۇاۋېي ئەپ بازىرى چۈشۈۋاتىدۇ"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"قاچىلاش"</string>
+    <string name="upsdk_app_size" priority="LT">"سىغىم"</string>
+    <string name="upsdk_app_version" priority="LT">"نەشرى"</string>
+    <string name="upsdk_cancel" priority="translator">"بىكار قىلىش"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"يېڭىلانما تەكشۈرۈۋاتىدۇ..."</string>
+    <string name="upsdk_choice_update" priority="translator">"ئىشلەتكىلى بولىدىغان يېڭىلانما بار، تېز دەرىجىسىنى ئۆستۈرۈۋېلىڭ."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"مۇلازىمىتېرغا ئۇلانمىدى، سەل تۇرۇپ قايتا سىناڭ"</string>
+    <string name="upsdk_detail" priority="translator">"تەپسىلات"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"ئۇچۇرغا ئېرىشەلمىدى، سەل تۇرۇپ قايتا سىناڭ"</string>
+    <string name="upsdk_install" priority="translator">"خۇاۋېي ئورگان ئەپ بازىرىنى ئىشلەتكەندىلا ئاندىن دەرىجىسىنى ئۆستۈرۈشكە بولىدۇ، داۋاملاشتۇرامسىز؟"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"تور ئۇلانمىدى، تور تەڭشىكىنى تەكشۈرۈڭ"</string>
+    <string name="upsdk_ota_app_name" priority="translator">"ئەپ"</string>
+    <string name="upsdk_ota_cancel" priority="LT">"كېيىنچە"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"ئەپتىن چېكىنىش"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="LT">"يېڭىلاش"</string>
+    <string name="upsdk_ota_title" priority="translator">"يېڭى نەشرى بايقالدى"</string>
+    <string name="upsdk_storage_utils" priority="translator">"%1$sMB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"قاچىلاشنى بىكار قىلامسىز؟"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"قاچىلانمىدى"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"جەزملەش"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"بۇ ئەڭ يېڭى نەشرى"</string>
+    <string name="upsdk_updating" priority="translator">"يېڭىلىنىۋاتىدۇ"</string>
+</resources>

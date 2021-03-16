@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Ladataan AppGallery-sovellusta"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Asenna"</string>
+    <string name="upsdk_app_size" priority="translator">"Koko"</string>
+    <string name="upsdk_app_version" priority="translator">"Versio"</string>
+    <string name="upsdk_cancel" priority="translator">"Peruuta"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Tarkistetaan, onko päivityksiä saatavilla…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Päivitys on saatavana. Lataa ja asenna uusin versio."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Yhteyttä palvelimeen ei voi muodostaa. Yritä myöhemmin uudelleen."</string>
+    <string name="upsdk_detail" priority="translator">"Tiedot"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Tietoja ei voitu noutaa. Yritä myöhemmin uudelleen."</string>
+    <string name="upsdk_install" priority="LT">"Päivitä asentamalla AppGallery. Asennetaanko nyt?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Ei Internet-yhteyttä. Tarkista verkkoasetukset."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Sovellus"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Myöhemmin"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Poistu"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Päivitä"</string>
+    <string name="upsdk_ota_title" priority="translator">"Uusi versio"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s Mt"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Perutetaanko asennus?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Asennus epäonnistui."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Kyllä"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Versiosi on ajan tasalla."</string>
+    <string name="upsdk_updating" priority="translator">"Päivitetään"</string>
+</resources>

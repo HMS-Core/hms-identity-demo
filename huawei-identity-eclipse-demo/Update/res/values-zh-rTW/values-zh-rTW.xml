@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"正在下載華為應用程式商店"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"安裝"</string>
+    <string name="upsdk_app_size" priority="LT">"大小"</string>
+    <string name="upsdk_app_version" priority="LT">"版本"</string>
+    <string name="upsdk_cancel" priority="LT">"取消"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"正在檢查更新…"</string>
+    <string name="upsdk_choice_update" priority="LT">"有可用更新，快去升級吧。"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"無法連線伺服器，請稍後重試"</string>
+    <string name="upsdk_detail" priority="LT">"詳情"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"無法取得資訊，請稍後重試"</string>
+    <string name="upsdk_install" priority="translator">"需要安裝華為應用程式商店才能更新。是否現在安裝？"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"沒有網際網路連線。請檢查網路設定。"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"應用程式"</string>
+    <string name="upsdk_ota_cancel" priority="LT">"以後再說"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"結束應用程式"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="LT">"立即更新"</string>
+    <string name="upsdk_ota_title" priority="LT">"發現新版本"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"取消安裝？"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"安裝失敗"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"是"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"已是最新版本"</string>
+    <string name="upsdk_updating" priority="LT">"正在更新"</string>
+</resources>

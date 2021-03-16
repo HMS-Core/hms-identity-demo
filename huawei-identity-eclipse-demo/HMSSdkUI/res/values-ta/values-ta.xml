@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"நிறுத்து"</string>
+    <string name="hms_abort_message" priority="translator">"பதிவிறக்குவதை நிறுத்தவா?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s-ஆல் Huawei Mobile Services-ஐப் பயன்படுத்த இயலவில்லை. உகந்ததாக்கியைத் (ஃபோன் நிர்வாகி) தொடங்கி அல்லது அமைப்புகளுக்குச் சென்று, %2$s-க்கான (தன்னியக்கத் தொடக்கம் மற்றும் இரண்டாம் நிலைத் தொடக்கம் உள்ளிட்ட) அனைத்து அனுமதிகளையும் செயல்படுத்திவிட்டு, மீண்டும் முயலவும்."</string>
+    <string name="hms_cancel" priority="translator">"ரத்து"</string>
+    <string name="hms_check_failure" priority="translator">"புதுப்பிப்புகள் உள்ளதா என்று பார்ப்பதில் தோல்வியுற்றது."</string>
+    <string name="hms_check_no_update" priority="translator">"உங்கள் பதிப்பு புதுப்பித்த நிலையில் உள்ளது."</string>
+    <string name="hms_checking" priority="translator">"புதுப்பிப்புகள் உள்ளனவா எனச் சரிபார்க்கிறது…"</string>
+    <string name="hms_confirm" priority="translator">"சரி"</string>
+    <string name="hms_download_failure" priority="translator">"Huawei Mobile Services தொகுப்பைப் பதிவிறக்க முடியவில்லை."</string>
+    <string name="hms_download_no_space" priority="translator">"போதுமான அளவு காலி இடம் இல்லை. பதிவிறக்கம் நிறைவடையவில்லை."</string>
+    <string name="hms_download_retry" priority="translator">"பதிவிறக்கம் தோல்வி. மீண்டும் முயற்சிக்கவா?"</string>
+    <string name="hms_downloading" priority="translator">"Huawei Mobile Services பதிவிறங்குகிறது\nசெயல்நிலை: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"பதிவிறக்குகிறது"</string>
+    <string name="hms_downloading_new" priority="translator">"HMS-ஐப் பதிவிறக்குகிறது"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"நிறுவு"</string>
+    <string name="hms_install_message" priority="translator">"இந்த அம்சத்தைப் பயன்படுத்துவதற்கு Huawei Mobile Services-ஐ நிறுவவேண்டும். நிறுவவா?"</string>
+    <string name="hms_retry" priority="translator">"மீண்டும் முயலவும்"</string>
+    <string name="hms_update" priority="translator">"புதுப்பி"</string>
+    <string name="hms_update_continue" priority="LT">"பதிவிறக்கு"</string>
+    <string name="hms_update_message" priority="translator">"இந்த அம்சத்தைப் பயன்படுத்துவதற்கு Huawei Mobile Services-இன் சமீபத்திய பதிப்புக்கு புதுப்பிக்கவும். இப்போதே புதுப்பிக்கவா?"</string>
+    <string name="hms_update_message_new" priority="translator">"இந்தச் சேவை பின்வரும் செயலியின் சமீபத்திய பதிப்புக்குத் தேவைப்படுகிறது:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Wi-Fi இணைப்பு இல்லை. மொபைல் தரவைப் பயன்படுத்திப் பதிவிறக்கவா?"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+</resources>

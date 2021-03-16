@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Се презема AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Инсталирај"</string>
+    <string name="upsdk_app_size" priority="translator">"Големина"</string>
+    <string name="upsdk_app_version" priority="translator">"Верзија"</string>
+    <string name="upsdk_cancel" priority="translator">"Откажи"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Се проверува за ажурирања…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Достапно е ажурирање. Преземете ја и инсталирајте ја најновата верзија."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Не може да се поврзе со серверот. Обидете се повторно подоцна."</string>
+    <string name="upsdk_detail" priority="translator">"Детали"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Информациите не можат да се вчитаат. Обидете се повторно подоцна."</string>
+    <string name="upsdk_install" priority="LT">"Инсталирајте ја AppGallery за да ажурирате. Да се инсталира сега?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Нема поврзување на интернет. Проверете ги поставките за мрежата."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Апликација"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Подоцна"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Излези"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Ажурирај"</string>
+    <string name="upsdk_ota_title" priority="translator">"Нова верзија"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Да се откаже инсталацијата?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Инсталирањето не успеа."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Да"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Ја имате најновата верзија."</string>
+    <string name="upsdk_updating" priority="translator">"Се ажурира"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"جاري تنزيل متجر التطبيقات"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"تثبيت"</string>
+    <string name="upsdk_app_size" priority="translator">"الحجم:"</string>
+    <string name="upsdk_app_version" priority="LT">"الإصدار"</string>
+    <string name="upsdk_cancel" priority="translator">"إلغاء"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"جارِ التحقق من وجود تحديثات..."</string>
+    <string name="upsdk_choice_update" priority="LT">"هناك تحديث متوفر، يُرجى تنزيل وتثبيت أحدث إصدار."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"غير قادر على الاتصال بالخادم، يُرجى إعادة المحاولة لاحقًا"</string>
+    <string name="upsdk_detail" priority="translator">"التفاصيل"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"غير قادر على الحصول على المعلومات، يُرجى إعادة المحاولة لاحقًا"</string>
+    <string name="upsdk_install" priority="LT">"يُرجى تثبيت متجر التطبيقات لتتمكن من تحديثه، هل تريد تثبيته الآن؟"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"لا يوجد اتصال إنترنت لديك، يُرجى التحقق من إعدادات الشبكة"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"اسم التطبيق:"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"لاحقًا"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"خروج"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"تحديث"</string>
+    <string name="upsdk_ota_title" priority="translator">"إصدار جديد"</string>
+    <string name="upsdk_storage_utils" priority="translator">"%1$s م.ب"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"هل تريد إلغاء التثبيت؟"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"تعذر التثبيت"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"نعم"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"أنت الآن تستخدم أحدث إصدار"</string>
+    <string name="upsdk_updating" priority="translator">"جارِ التحديث"</string>
+</resources>

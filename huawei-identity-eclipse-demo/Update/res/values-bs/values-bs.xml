@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Preuzimanje aplikacije AppGallery u toku"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Instaliraj"</string>
+    <string name="upsdk_app_size" priority="translator">"Veličina"</string>
+    <string name="upsdk_app_version" priority="translator">"Verzija"</string>
+    <string name="upsdk_cancel" priority="translator">"Otkaži"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Pretraživanje ažuriranja…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Ažuriranje dostupno. Preuzmite i instalirajte najnoviju verziju."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Nije moguće povezati se na server. Pokušajte ponovno kasnije."</string>
+    <string name="upsdk_detail" priority="translator">"Detalji"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Nije moguće pronaći informacije. Pokušajte ponovno kasnije."</string>
+    <string name="upsdk_install" priority="LT">"Instalirajte AppGallery radi ažuriranja. Instalirati sada?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Nema internetske veze. Provjerite svoje mrežne postavke."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Aplikacija"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Kasnije"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Izađi"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Ažuriraj"</string>
+    <string name="upsdk_ota_title" priority="translator">"Nova verzija"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Otkazati instalaciju?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Neuspješno instaliranje."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Da"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Vaša verzija je ažurirana."</string>
+    <string name="upsdk_updating" priority="translator">"Ažuriranje"</string>
+</resources>

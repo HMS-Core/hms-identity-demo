@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Dina-download ang AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Install"</string>
+    <string name="upsdk_app_size" priority="translator">"Size"</string>
+    <string name="upsdk_app_version" priority="translator">"Version"</string>
+    <string name="upsdk_cancel" priority="LT">"Kanselahin"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Tumitingin ng mga update…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Available na update. Mangyaring i-download at i-install ang pinakabagong bersyon."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Hindi makakonekta sa server. Pakisubukang muli sa ibang pagkakataon."</string>
+    <string name="upsdk_detail" priority="translator">"Details"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Hindi makuha ang impormasyon. Pakisubukang muli sa ibang pagkakataon."</string>
+    <string name="upsdk_install" priority="LT">"I-install ang AppGallery para i-update. I-install ngayon?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"No Internet connection. Please check your network settings."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"App"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Later"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Lumabas"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"I-update"</string>
+    <string name="upsdk_ota_title" priority="translator">"New version"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Kanselahin ang pag-install?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Hindi ma-install."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Oo"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Napapanahon ang iyong bersyon."</string>
+    <string name="upsdk_updating" priority="translator">"Updating"</string>
+</resources>

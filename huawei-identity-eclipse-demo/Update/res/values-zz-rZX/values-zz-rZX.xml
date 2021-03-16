@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing">[CS_325747]_Downloading AppGallery</string>
+    <string name="upsdk_app_download_info_new">[CS_326955]_Install</string>
+    <string name="upsdk_app_size">[CS_325750]_Size</string>
+    <string name="upsdk_app_version">[CS_325751]_Version</string>
+    <string name="upsdk_cancel">[CS_325749]_Cancel</string>
+    <string name="upsdk_checking_update_prompt">[CS_325741]_Checking for updates…</string>
+    <string name="upsdk_choice_update">[CS_325748]_Update available. Please download and install the latest version.</string>
+    <string name="upsdk_connect_server_fail_prompt_toast">[CS_445445]_Unable to connect to server. Please try again later.</string>
+    <string name="upsdk_detail">[CS_325745]_Details</string>
+    <string name="upsdk_getting_message_fail_prompt_toast">[CS_445449]_Unable to retrieve information. Please try again later.</string>
+    <string name="upsdk_install">[CS_326956]_Install AppGallery to update. Install now?</string>
+    <string name="upsdk_no_available_network_prompt_toast">[CS_445450]_No Internet connection. Please check your network settings.</string>
+    <string name="upsdk_ota_app_name">[CS_355478]_App</string>
+    <string name="upsdk_ota_cancel">[CS_325742]_Later</string>
+    <string name="upsdk_ota_force_cancel_new">[CS_355477]_Exit</string>
+    <string name="upsdk_ota_notify_updatebtn">[CS_325752]_Update</string>
+    <string name="upsdk_ota_title">[CS_325743]_New version</string>
+    <string name="upsdk_storage_utils">[CS_427606]_%1$s MB</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex">[CS_445446]_Cancel the installation?</string>
+    <string name="upsdk_third_app_dl_install_failed">[CS_445447]_Installation failed.</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download">[CS_445448]_Yes</string>
+    <string name="upsdk_update_check_no_new_version">[CS_325744]_Your version is up to date.</string>
+    <string name="upsdk_updating">[CS_325740]_Updating</string>
+</resources>

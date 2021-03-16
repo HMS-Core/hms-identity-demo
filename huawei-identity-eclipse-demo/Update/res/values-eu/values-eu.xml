@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"AppGallery deskargatzen"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Instalatu"</string>
+    <string name="upsdk_app_size" priority="translator">"Tamaina"</string>
+    <string name="upsdk_app_version" priority="translator">"Bertsioa"</string>
+    <string name="upsdk_cancel" priority="translator">"Utzi"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Eguneratzerik baden begiratzen..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Eguneratzea erabilgarri. Deskargatu eta instalatu azken bertsioa."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Ezin da zerbitzarira konektatu. Saiatu berriro geroago."</string>
+    <string name="upsdk_detail" priority="translator">"Xehetasunak"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Ezin izan da berreskuratu informaziorik. Saiatu berriro geroago."</string>
+    <string name="upsdk_install" priority="LT">"Instalatu AppGallery eguneratzeko. Orain instalatu?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Ez dago Interneteko konexiorik. Egiaztatu sarearen ezarpenak."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Aplikazioa"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Geroago"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Irten"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Eguneratu"</string>
+    <string name="upsdk_ota_title" priority="translator">"Bertsio berria"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Instalazioa bertan behera utzi?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Ezin izan da instalatu."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Bai"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Bertsioa eguneratuta dago."</string>
+    <string name="upsdk_updating" priority="translator">"Eguneratzen"</string>
+</resources>

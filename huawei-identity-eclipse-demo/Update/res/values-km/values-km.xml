@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"ការទាញយក AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"ដំឡើង"</string>
+    <string name="upsdk_app_size" priority="translator">"ទំហំ"</string>
+    <string name="upsdk_app_version" priority="translator">"កំណែ"</string>
+    <string name="upsdk_cancel" priority="translator">"លុបចេញ"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"កំពុងពិនិត្យរកមើល​ការអាប់ដេត…"</string>
+    <string name="upsdk_choice_update" priority="LT">"ការអាប់ដេតអាចរកបាន។ សូមទាញយក ហើយដំឡើងកំណែចុងក្រោយបង្អស់។"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"មិនអាចភ្ជាប់ទៅកាន់ម៉ាស៊ីនមេបាន។ សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។"</string>
+    <string name="upsdk_detail" priority="translator">"ព័ត៌មានលំអិត"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"មិនអាចទៅយកព័ត៌មានបាន។ សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។"</string>
+    <string name="upsdk_install" priority="LT">"ដំឡើង AppGallery ដើម្បីអាប់ដេត។ ដំឡើងឥឡូវនេះ?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"មិន​មាន​ការភ្ជាប់អ៊ីនធើណេត។ សូមពិនិត្យមើលការកំណត់បណ្តាញរបស់អ្នក។"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"កម្មវិធី"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"ពេលក្រោយ"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"ចាកចេញ"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"អាប់ដេត"</string>
+    <string name="upsdk_ota_title" priority="translator">"កំណែថ្មី"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"លុបចេញការដំឡើងឬ?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"ការដំឡើងបានបរាជ័យ។"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"បាទ/ចាស"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"កំណែរបស់អ្នកគឺទាន់សម័យ។"</string>
+    <string name="upsdk_updating" priority="translator">"កំពុងអាប់ដេត"</string>
+</resources>

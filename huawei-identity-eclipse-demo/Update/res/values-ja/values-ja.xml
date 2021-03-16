@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"AppGalleryをダウンロード中"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"インストール"</string>
+    <string name="upsdk_app_size" priority="translator">"サイズ"</string>
+    <string name="upsdk_app_version" priority="translator">"バージョン"</string>
+    <string name="upsdk_cancel" priority="translator">"キャンセル"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"更新を確認中…"</string>
+    <string name="upsdk_choice_update" priority="LT">"利用可能な更新があります。最新版をダウンロードしてインストールしてください。"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"サーバーに接続できませんでした。後で再試行してください。"</string>
+    <string name="upsdk_detail" priority="translator">"詳細"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"情報を取得できません。後で再試行してください。"</string>
+    <string name="upsdk_install" priority="LT">"AppGalleryをインストールして更新してください。今すぐインストールしますか？"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"インターネットに接続されていません。ネットワーク設定を確認してください。"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"アプリ"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"後で"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"終了"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"更新"</string>
+    <string name="upsdk_ota_title" priority="translator">"新しいバージョン"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"インストールを中止しますか？"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"インストールに失敗しました。"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"はい"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"ご利用のバージョンは最新です"</string>
+    <string name="upsdk_updating" priority="translator">"更新中"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Загрузка AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Установить"</string>
+    <string name="upsdk_app_size" priority="translator">"Размер"</string>
+    <string name="upsdk_app_version" priority="LT">"Версия"</string>
+    <string name="upsdk_cancel" priority="translator">"Отмена"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Проверка обновлений…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Доступно обновление. Загрузите и установите его."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Сбой подключения к серверу. Повторите попытку позднее."</string>
+    <string name="upsdk_detail" priority="translator">"Сведения"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Сбой получения данных. Повторите попытку позднее."</string>
+    <string name="upsdk_install" priority="LT">"Для обновления установите AppGallery. Установить?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Нет интернет-соединения. Проверьте настройки сети."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Приложение"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Позже"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Выйти"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Обновить"</string>
+    <string name="upsdk_ota_title" priority="translator">"Новая версия"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s МБ"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Отменить установку?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Сбой установки."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Да"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"Это последняя версия."</string>
+    <string name="upsdk_updating" priority="translator">"Обновление"</string>
+</resources>

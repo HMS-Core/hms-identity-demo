@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Διακοπή"</string>
+    <string name="hms_abort_message" priority="translator">"Να διακοπεί η λήψη;"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"Το %1$s αδυνατεί να χρησιμοποιήσει τις Υπηρεσίες Huawei Mobile. Εκκινήστε τη Βελτιστοποίηση (Διαχείριση τηλεφώνου) ή μεταβείτε στις Ρυθμίσεις, ενεργοποιήστε όλες τις άδειες για το %2$s (συμπεριλαμβανομένης της αυτόματης εκκίνησης και της δευτερεύουσας εκκίνησης) και προσπαθήστε ξανά."</string>
+    <string name="hms_cancel" priority="translator">"Ακύρωση"</string>
+    <string name="hms_check_failure" priority="translator">"Απέτυχε ο έλεγχος για ενημερώσεις."</string>
+    <string name="hms_check_no_update" priority="translator">"Η έκδοσή σας είναι ενημερωμένη."</string>
+    <string name="hms_checking" priority="translator">"Έλεγχος για ενημερώσεις…"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Η λήψη του πακέτου Υπηρεσιών κινητής τηλεφωνίας Huawei απέτυχε."</string>
+    <string name="hms_download_no_space" priority="translator">"Δεν υπάρχει αρκετός ελεύθερος χώρος. Η λήψη δεν μπορεί να ολοκληρωθεί."</string>
+    <string name="hms_download_retry" priority="translator">"Η λήψη απέτυχε. Επανάληψη;"</string>
+    <string name="hms_downloading" priority="translator">"Λήψη των Υπηρεσιών κινητής τηλεφωνίας Huawei | πρόοδος: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Λήψη σε εξέλιξη"</string>
+    <string name="hms_downloading_new" priority="LT">"Λήψη υπηρεσιών HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Εγκατάσταση"</string>
+    <string name="hms_install_message" priority="translator">"Πρέπει να εγκατασταθεί το στοιχείο Υπηρεσίες Huawei Mobile για τη χρήση αυτής της λειτουργίας. Να γίνει εγκατάσταση;"</string>
+    <string name="hms_retry" priority="translator">"Επανάληψη"</string>
+    <string name="hms_update" priority="translator">"Ενημέρωση"</string>
+    <string name="hms_update_continue" priority="LT">"Λήψη"</string>
+    <string name="hms_update_message" priority="translator">"Για να χρησιμοποιήσετε αυτή τη λειτουργία πρέπει να κάνετε ενημέρωση στην τελευταία έκδοση των Υπηρεσιών κινητής τηλεφωνίας Huawei. Ενημέρωση τώρα;"</string>
+    <string name="hms_update_message_new" priority="LT">"Αυτή η υπηρεσία απαιτεί την τελευταία έκδ. της εφαρμογής:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Δεν υπάρχει σύνδεση Wi-Fi. Να γίνει λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</string>
+    <string name="hms_update_title" priority="translator">"Υπηρεσίες κινητής τηλεφωνίας Huawei"</string>
+</resources>

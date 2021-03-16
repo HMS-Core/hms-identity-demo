@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"AppGallery-г татаж авч байна"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Суулгах"</string>
+    <string name="upsdk_app_size" priority="translator">"Хэмжээ"</string>
+    <string name="upsdk_app_version" priority="translator">"Хувилбар"</string>
+    <string name="upsdk_cancel" priority="translator">"Цуцлах"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Шинэчлэл шалгаж байна…"</string>
+    <string name="upsdk_choice_update" priority="translator">"Шинэчлэлт бэлэн байна. Хамгийн сүүлийн хувилбарыг татаж авч, суулгана уу."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Серверт холбогдох боломжгүй байна. Дараа дахин оролдоно уу."</string>
+    <string name="upsdk_detail" priority="translator">"Дэлгэрэнгүй"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Мэдээлэл авах боломжгүй байна. Дараа дахин оролдоно уу."</string>
+    <string name="upsdk_install" priority="translator">"Шинэчлэхийн тулд AppGallery-г суулгана уу. Одоо суулгах уу?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Интернэт холболт алга. Сүлжээний тохиргоогоо шалгана уу."</string>
+    <string name="upsdk_ota_app_name" priority="translator">"Аппликэйшн"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Дараа"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"Гарах"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Шинэчлэх"</string>
+    <string name="upsdk_ota_title" priority="translator">"Шинэ хувилбар"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s МБ"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Суулгалтыг цуцлах уу?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Суурилуулалт амжилтгүй."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Тийм"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Таны хувилбар шинэчлэгдсэн байна."</string>
+    <string name="upsdk_updating" priority="translator">"Шинэчилж байна"</string>
+</resources>

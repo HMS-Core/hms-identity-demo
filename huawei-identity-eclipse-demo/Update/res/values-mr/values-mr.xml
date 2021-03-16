@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"AppGallery डाउनलोड करीत आहे"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"स्थापित करा"</string>
+    <string name="upsdk_app_size" priority="translator">"आकार"</string>
+    <string name="upsdk_app_version" priority="translator">"आवृत्ती"</string>
+    <string name="upsdk_cancel" priority="translator">"रद्द करा"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"अद्यतनांसाठी तपासत आहे…"</string>
+    <string name="upsdk_choice_update" priority="translator">"अद्यतन उपलब्ध. कृपया नवीनतम आवृत्ती डाउनलोड आणि स्थापित करा."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"सर्व्हरसह कनेक्ट करण्यात अक्षम. कृपया नंतर पुन्हा प्रयत्न करा."</string>
+    <string name="upsdk_detail" priority="translator">"तपशील"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"माहिती पुनर्प्राप्त करता आली नाही. कृपया नंतर पुन्हा प्रयत्न करा."</string>
+    <string name="upsdk_install" priority="translator">"अद्यतनित करण्‍यासाठी AppGallery स्‍थापित करा. आत्ता स्थापन करायचे?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"कोणतेही इंटरनेट कनेक्शन नाही. कृपया आपल्या नेटवर्क सेटिंग्ज तपासा."</string>
+    <string name="upsdk_ota_app_name" priority="translator">"अॅप"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"नंतर"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"निर्गमन करा"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"अद्यतनित करा"</string>
+    <string name="upsdk_ota_title" priority="translator">"नवीन आवृत्ती"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"स्थापना रद्द करायची?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"स्थापना अयशस्वी."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"होय"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"आपली आवृत्ती अद्ययावत आहे."</string>
+    <string name="upsdk_updating" priority="translator">"अद्यतनित करीत आहे"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"AppGallery-ஐப் பதிவிறக்குகிறது"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"நிறுவு"</string>
+    <string name="upsdk_app_size" priority="translator">"அளவு"</string>
+    <string name="upsdk_app_version" priority="translator">"பதிப்பு"</string>
+    <string name="upsdk_cancel" priority="translator">"ரத்து"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"புதுப்பிப்புகள் உள்ளனவா எனச் சரிபார்க்கிறது…"</string>
+    <string name="upsdk_choice_update" priority="translator">"புதுப்பித்தல் கிடைக்கிறது. சமீபத்திய பதிப்பைப் பதிவிறக்கி நிறுவவும்."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"சேவையகத்துடன் இணைக்க முடியவில்லை. பின்னர் மீண்டும் முயலவும்."</string>
+    <string name="upsdk_detail" priority="translator">"விவரங்கள்"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"தகவலை மீட்டெடுக்க இயலவில்லை. பின்னர் மீண்டும் முயலவும்."</string>
+    <string name="upsdk_install" priority="translator">"புதுப்பிப்பதற்கு AppGallery-ஐ நிறுவவும். இப்போதே நிறுவவா?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"இணைய இணைப்பு இல்லை. உங்கள் பிணைய அமைப்புகளைச் சரிபார்க்கவும்."</string>
+    <string name="upsdk_ota_app_name" priority="translator">"செயலி"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"பின்னர்"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"வெளியேறு"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"புதுப்பி"</string>
+    <string name="upsdk_ota_title" priority="translator">"புதிய பதிப்பு"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"நிறுவலை ரத்துசெய்யவா?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"நிறுவல் தோல்வி."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"ஆம்"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"உங்கள் பதிப்பு புதுப்பித்த நிலையில் உள்ளது."</string>
+    <string name="upsdk_updating" priority="translator">"புதுப்பிக்கிறது"</string>
+</resources>

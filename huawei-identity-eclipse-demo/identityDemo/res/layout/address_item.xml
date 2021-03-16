@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/user_address_item_content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="24dp"
+        android:paddingLeft="24dp"
+        android:paddingTop="12dp"
+        android:paddingEnd="24dp"
+        android:paddingRight="24dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/user_address_item_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
+
+            <!-- 最右边的箭头-->
+            <ImageView
+                android:id="@+id/user_address_item_arrow_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginLeft="8dp"
+                android:src="@drawable/arrow_right" />
+
+
+            <!--收货地址信息-->
+            <LinearLayout
+                android:id="@+id/user_info_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@id/user_address_item_arrow_img"
+                android:layout_toLeftOf="@id/user_address_item_arrow_img"
+                android:orientation="vertical">
+
+                <!--收货人名称、手机号码-->
+                <LinearLayout
+                    android:id="@+id/content_name_and_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:orientation="horizontal">
+
+                    <!-- 收货人名称 -->
+                    <TextView
+                        android:id="@+id/user_address_nickname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:ellipsize="end"
+                        android:fontFamily="HwChinese-medium"
+                        android:gravity="center_vertical"
+                        android:singleLine="true"
+                        android:textColor="?android:attr/textColorPrimary"
+                        android:textSize="16sp" />
+
+                    <!-- 收货人手机号 -->
+                    <TextView
+                        android:id="@+id/user_address_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginLeft="8dp"
+                        android:fontFamily="HwChinese-medium"
+                        android:gravity="center_vertical"
+                        android:textColor="?android:attr/textColorPrimary"
+                        android:textSize="16sp"
+                        />
+
+                </LinearLayout>
+
+                <!-- 收货人邮箱 -->
+                <TextView
+                    android:id="@+id/user_address_email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="4dp"
+                    android:fontFamily="HwChinese-regular"
+                    android:gravity="center_vertical"
+                    android:textColor="?android:attr/textColorPrimary"
+                    android:textSize="16sp"
+                    />
+
+                <!-- 详细地址信息 -->
+                <TextView
+                    android:id="@+id/user_address_detailaddress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:fontFamily="HwChinese-regular"
+                    android:gravity="center_vertical"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:textSize="16sp"
+                    />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

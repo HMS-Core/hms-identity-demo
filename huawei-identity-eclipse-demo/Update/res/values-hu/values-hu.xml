@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"AppGallery letöltése"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Telepítés"</string>
+    <string name="upsdk_app_size" priority="translator">"Méret"</string>
+    <string name="upsdk_app_version" priority="translator">"Verzió"</string>
+    <string name="upsdk_cancel" priority="translator">"Mégse"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Frissítések keresése..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Frissítés érhető el. Töltse le, és telepítse a legfrissebb verziót."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Nem lehet csatlakozni a szerverhez. Próbálja újra később."</string>
+    <string name="upsdk_detail" priority="translator">"Részletek"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Információ lekérése sikertelen. Próbálja újra később."</string>
+    <string name="upsdk_install" priority="LT">"Telepítse az AppGallery-t a frissítéshez. Telepíti most?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Nincs internetkapcsolat. Ellenőrizze a hálózati beállításait."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Alkalmazás"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Később"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Kilépés"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Frissítés"</string>
+    <string name="upsdk_ota_title" priority="translator">"Új verzió"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Megszakítja a telepítést?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Telepítés sikertelen."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Igen"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"A verziója naprakész."</string>
+    <string name="upsdk_updating" priority="translator">"Frissítés"</string>
+</resources>

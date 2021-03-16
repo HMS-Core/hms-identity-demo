@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Henter AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Installer"</string>
+    <string name="upsdk_app_size" priority="translator">"Størrelse"</string>
+    <string name="upsdk_app_version" priority="translator">"Version"</string>
+    <string name="upsdk_cancel" priority="translator">"Annuller"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Søger efter opdateringer..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Opdatering tilgængelig. Download og installér den nyeste version."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Kan ikke oprette forbindelse til serveren. Prøv igen senere."</string>
+    <string name="upsdk_detail" priority="translator">"Detaljer"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Kunne ikke hente information. Prøv igen senere."</string>
+    <string name="upsdk_install" priority="LT">"Installer AppGallery for at opdatere. Installer nu?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Ingen internetforbindelse. Kontrollér netværksindstillingerne."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"App"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Senere"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Afslut"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Opdatér"</string>
+    <string name="upsdk_ota_title" priority="translator">"Ny version"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Vil du annullere installationen?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Installationen mislykkedes."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Ja"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Din version er opdateret."</string>
+    <string name="upsdk_updating" priority="translator">"Opdaterer"</string>
+</resources>

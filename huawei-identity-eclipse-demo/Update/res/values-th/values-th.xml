@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"กำลังดาวน์โหลด AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"ติดตั้ง"</string>
+    <string name="upsdk_app_size" priority="translator">"ขนาด"</string>
+    <string name="upsdk_app_version" priority="translator">"เวอร์ชัน"</string>
+    <string name="upsdk_cancel" priority="translator">"ยกเลิก"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"กำลังตรวจสอบการอัปเดต..."</string>
+    <string name="upsdk_choice_update" priority="LT">"การอัปเดตพร้อมใช้งาน โปรดดาวน์โหลดและติดตั้งเวอร์ชันล่าสุด"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"ไม่สามารถเชื่อมต่อเซิร์ฟเวอร์ได้ โปรดลองใหม่อีกครั้งภายหลัง"</string>
+    <string name="upsdk_detail" priority="translator">"รายละเอียด"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"ไม่สามารถรับข้อมูลได้ โปรดลองใหม่อีกครั้งภายหลัง"</string>
+    <string name="upsdk_install" priority="LT">"ติดตั้ง AppGallery เพื่ออัปเดต ติดตั้งตอนนี้หรือไม่"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"ไม่มีการเชื่อมต่ออินเทอร์เน็ต โปรดตรวจสอบการตั้งค่าเครือข่ายของคุณ"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"แอป"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"ภายหลัง"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"ออก"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"อัปเดต"</string>
+    <string name="upsdk_ota_title" priority="translator">"เวอร์ชันใหม่"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"ยกเลิกการติดตั้งหรือไม่"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"การติดตั้งล้มเหลว"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"ใช่"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"คุณใช้เวอร์ชันล่าสุดอยู่แล้ว"</string>
+    <string name="upsdk_updating" priority="translator">"กำลังอัปเดต"</string>
+</resources>

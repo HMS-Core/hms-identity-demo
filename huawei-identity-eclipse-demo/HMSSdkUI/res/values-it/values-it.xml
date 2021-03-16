@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Interrompi"</string>
+    <string name="hms_abort_message" priority="translator">"Vuoi interrompere il download?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s non può utilizzare i Servizi Mobili Huawei. Avvia Optimizer o accedi a Impostazioni, attiva tutte le autorizzazioni per %2$s (incluso l\'avvio automatico e l\'avvio secondario) e riprova."</string>
+    <string name="hms_cancel" priority="translator">"Annulla"</string>
+    <string name="hms_check_failure" priority="translator">"Ricerca aggiornamenti non riuscita."</string>
+    <string name="hms_check_no_update" priority="translator">"La versione più aggiornata è già in uso."</string>
+    <string name="hms_checking" priority="translator">"Ricerca aggiornamenti..."</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Impossibile scaricare il pacchetto Huawei Mobile Services."</string>
+    <string name="hms_download_no_space" priority="translator">"Spazio insufficiente. Impossibile completare il download."</string>
+    <string name="hms_download_retry" priority="translator">"Download non riuscito. Vuoi riprovare?"</string>
+    <string name="hms_downloading" priority="translator">"Download Huawei Mobile Services | avanzamento: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Download"</string>
+    <string name="hms_downloading_new" priority="LT">"Download HMS..."</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Installa"</string>
+    <string name="hms_install_message" priority="translator">"Per l\'utilizzo della funzione occorre installare Huawei Mobile Services. Vuoi installare?"</string>
+    <string name="hms_retry" priority="translator">"Riprova"</string>
+    <string name="hms_update" priority="translator">"Aggiorna"</string>
+    <string name="hms_update_continue" priority="LT">"Scarica"</string>
+    <string name="hms_update_message" priority="translator">"Aggiorna Huawei Mobile Services all\'ultima versione per utilizzare questa funzione. Vuoi aggiornare ora?"</string>
+    <string name="hms_update_message_new" priority="LT">"Il servizio richiede l\'ultima versione della seguente app:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="translator">"Nessuna connessione Wi-Fi. Scaricare usando i dati mobili?"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+</resources>

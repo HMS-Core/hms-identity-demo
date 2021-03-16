@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Πραγματοποιείται λήψη της υπηρεσίας AppGallery."</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Εγκατάσταση"</string>
+    <string name="upsdk_app_size" priority="translator">"Μέγεθος"</string>
+    <string name="upsdk_app_version" priority="translator">"Έκδοση"</string>
+    <string name="upsdk_cancel" priority="translator">"Άκυρο"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Έλεγχος για ενημερώσεις…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Διαθέσιμη ενημέρωση. Πραγματοποιήστε λήψη και εγκατάσταση της τελευταίας έκδοσης."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Δεν είναι δυνατή η σύνδεση στον διακομιστή. Προσπαθήστε ξανά αργότερα."</string>
+    <string name="upsdk_detail" priority="translator">"Λεπτομέρειες"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Δεν είναι δυνατή η ανάκτηση πληροφοριών. Προσπαθήστε ξανά αργότερα."</string>
+    <string name="upsdk_install" priority="LT">"Εγκαταστήστε την υπηρεσία AppGallery για ενημέρωση. Να γίνει εγκατάσταση τώρα;"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Δεν υπάρχει σύνδεση στο Ίντερνετ. Ελέγξτε τις ρυθμίσεις δικτύου σας."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Εφαρμογή"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Αργότερα"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Έξοδος"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Ενημέρωση"</string>
+    <string name="upsdk_ota_title" priority="translator">"Νέα έκδοση"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Ακύρωση της εγκατάστασης;"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Ανεπιτυχής εγκατάσταση."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Ναι"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Η έκδοσή σας είναι ενημερωμένη."</string>
+    <string name="upsdk_updating" priority="translator">"Ενημέρωση"</string>
+</resources>

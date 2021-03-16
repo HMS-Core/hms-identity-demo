@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Zaustavi"</string>
+    <string name="hms_abort_message" priority="translator">"Prekinuti preuzimanje?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s ne može upotrebljavati aplikaciju Huawei Mobile Services. Pokrenite aplikaciju Optimizacija (Upravitelj telefona) ili idite na Postavke, omogućite sve dozvole za %2$s (uključujući automatsko pokretanje i Sekundarno pokretanje) i pokušajte ponovno."</string>
+    <string name="hms_cancel" priority="translator">"Odustani"</string>
+    <string name="hms_check_failure" priority="translator">"Provjera ažuriranja nije uspjela."</string>
+    <string name="hms_check_no_update" priority="translator">"Vaša verzija je ažurirana."</string>
+    <string name="hms_checking" priority="translator">"U tijeku je provjera ažuriranja…"</string>
+    <string name="hms_confirm" priority="translator">"U redu"</string>
+    <string name="hms_download_failure" priority="translator">"Preuzimanje paketa Huawei Mobilne usluge nije uspjelo."</string>
+    <string name="hms_download_no_space" priority="translator">"Nema dovoljno slobodnog prostora. Nije moguće dovršiti preuzimanje."</string>
+    <string name="hms_download_retry" priority="translator">"Preuzimanje nije uspjelo. Pokušati ponovno?"</string>
+    <string name="hms_downloading" priority="translator">"Preuzimanje Huawei Mobilnih usluga | napredak: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Preuzimanje"</string>
+    <string name="hms_downloading_new" priority="LT">"Preuzimanje HMS-a"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Instaliraj"</string>
+    <string name="hms_install_message" priority="translator">"Da biste mogli koristiti ovu značajku Huawei mobilne usluge moraju biti instalirane. Instalirati?"</string>
+    <string name="hms_retry" priority="translator">"Pokušaj opet"</string>
+    <string name="hms_update" priority="translator">"Ažuriraj"</string>
+    <string name="hms_update_continue" priority="LT">"Preuzmi"</string>
+    <string name="hms_update_message" priority="translator">"Ažurirajte na najnoviju verziju Huawei Mobilnih usluga kako biste mogli koristiti ovu značajku. Ažurirati sada?"</string>
+    <string name="hms_update_message_new" priority="LT">"Za ovu je uslugu neophodna najnovija verzija sljedeće aplikacije:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Nema veze Wi-Fi. Želite li preuzeti upotrebom mobilnih podataka?"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobilne usluge"</string>
+</resources>

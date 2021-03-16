@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"Mengunduh AppGallery"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Pasang"</string>
+    <string name="upsdk_app_size" priority="translator">"Ukuran"</string>
+    <string name="upsdk_app_version" priority="translator">"Versi"</string>
+    <string name="upsdk_cancel" priority="translator">"Batal"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"Memeriksa pembaruan..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Pembaruan tersedia. Unduh dan pasang versi terbaru."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"Tidak dapat terhubung ke server. Coba lagi nanti."</string>
+    <string name="upsdk_detail" priority="translator">"Perincian"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Tidak dapat mengambil data. Coba lagi nanti."</string>
+    <string name="upsdk_install" priority="LT">"Pasang AppGallery untuk memperbarui. Pasang sekarang?"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Tidak ada koneksi Internet. Periksa pengaturan jaringan Anda."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Apl"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Nanti"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Keluar"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Perbarui"</string>
+    <string name="upsdk_ota_title" priority="translator">"Versi baru"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Batalkan instalasi?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Instalasi gagal."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Ya"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Versi Anda sudah yang terbaru."</string>
+    <string name="upsdk_updating" priority="translator">"Memperbarui"</string>
+</resources>

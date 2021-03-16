@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="translator">"ཧྭ་ཝེའི་ཉེར་སྤྱོད་ཁྲོམ་ར་ཕབ་ལེན་བཞིན་པ།"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"སྒྲིག་འཇུག"</string>
+    <string name="upsdk_app_size" priority="translator">"ཆ་ཚད།"</string>
+    <string name="upsdk_app_version" priority="translator">"རིམ་པ།"</string>
+    <string name="upsdk_cancel" priority="translator">"ཕྱིར་འཐེན།"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"གསར་སྒྱུར་ལ་ཞིབ་བཤེར་བྱེད་བཞིན་ཡོད།"</string>
+    <string name="upsdk_choice_update" priority="LT">"གསར་སྒྱུར་ཐོབ་རུང་འདུག རིམ་པ་གསར་ཤོས་ཕབ་ལེན་གནང་བ་དང་སྒྲིག་འཇུག་གནང་རོགས།"</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"ཞབས་ཞུའི་ཡོ་ཆས་སྟེང་སྦྲེལ་མཐུད་མ་ཐུབ་པས། ཏོག་ཙམ་ནས་ཚོད་ལྟ་གནང་རོགས།"</string>
+    <string name="upsdk_detail" priority="translator">"ཞིབ་ཕྲ།"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"ཆ་འཕྲིན་བསྐྱར་སོན་མ་ཐུབ། རྗེས་སུ་ཡང་བསྐྱར་འབད་རྩོལ་གནང་རོགས།"</string>
+    <string name="upsdk_install" priority="translator">"གསར་སྒྱུར་བྱེད་པར་ཧྭ་ཝེའི་ཉེར་སྤྱོད་ཁྲོམ་ར་སྒྲིག་འཇུག་བྱ། ད་ལྟ་སྒྲིག་འཇུག་བྱེད་དམ།"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"དྲ་རྒྱའི་སྦྲེལ་མཐུད་མིན་འདུག ཁྱེད་ཀྱི་དྲ་ལམ་སྒྲིག་བཀོད་དག་ཞིབ་བཤེར་གནང་རོགས།"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"ཉེར་སྤྱོད།"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"རྗེས་མ།"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"ཕྱིར་ཐོན།"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"གསར་སྒྱུར།"</string>
+    <string name="upsdk_ota_title" priority="translator">"རིམ་པ་གསར་པ།"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"སྒྲིག་འཇུག་ཕྱིར་འཐེན་བྱེད་དམ།"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"སྒྲིག་འཇུག་མི་ཐུབ།"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"གཏན་འཁེལ།"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"པར་གཞི་གསར་ཤོས་ཡིན།"</string>
+    <string name="upsdk_updating" priority="translator">"གསར་སྒྱུར་བཞིན་པ།"</string>
+</resources>
