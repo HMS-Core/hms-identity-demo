@@ -4,10 +4,10 @@ apply plugin: 'com.huawei.agconnect'
 android {
     signingConfigs {
         debug {
-            storeFile file('./lightregion.jks')
-            storePassword '123456aA'
-            keyPassword '123456aA'
-            keyAlias = 'huawei'
+            storeFile file('xxx.xxx')
+            keyAlias 'xxx'
+            keyPassword 'xxx'
+            storePassword 'xxx'
         }
     }
     compileSdkVersion 29
