@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.huawei.demo.identitydemo">
+    package="com.huawei.identity.javademo">
 
     <application
         android:allowBackup="true"
