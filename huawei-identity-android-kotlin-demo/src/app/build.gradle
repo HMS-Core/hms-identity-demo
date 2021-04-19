@@ -17,7 +17,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.huawei.identity.demo"
+        applicationId "com.huawei.identity.kotlindemo"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 100
