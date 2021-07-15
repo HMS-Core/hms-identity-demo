@@ -2,9 +2,9 @@
 
 中文 | [English](https://github.com/HMS-Core/hms-identity-demo/blob/master/README.md)
 
-该示例代码介绍了华为用户身份服务（HUAWEI Identity Kit）客户端接口以及如何使用这些接口。
+该示例代码介绍了用户身份服务（Identity Kit）客户端接口以及如何使用这些接口。
 
-[参考文档](https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/about-the-service).
+[参考文档](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-References/identity-description-0000001076744930).
 
 
 ## 目录
@@ -54,7 +54,7 @@
 
 ## 配置
 
-本示例代码预置了agconnect-services.json，HMS依赖项，签名密钥，和应用内商品。这些预置项仅用于该示例代码。具体参见[华为用户身份服务指南](https://developer.huawei.com/consumer/cn/doc/development/HMS-Guides/about-the-service)。
+本示例代码预置了agconnect-services.json，HMS依赖项，签名密钥，和应用内商品。这些预置项仅用于该示例代码。具体参见[用户身份服务指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050040471)。
 
 
 ## 使用示例
@@ -80,7 +80,7 @@
 如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HuaweiDevelopers/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
 
 如果您对使用HMS示例代码有疑问，请尝试：
-- 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services)，在`huawei-mobile-services`标签下提问，有华为研发专家在线一对一解决您的问题。
+- 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services?tab=Frequent)，在`huawei-mobile-services`标签下提问，有华为研发专家在线一对一解决您的问题。
 - 到[华为开发者论坛](https://developer.huawei.com/consumer/cn/forum/blockdisplay?fid=18) HMS Core板块与其他开发者进行交流。
 
 如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-identity-demo/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-identity-demo/pulls)。
