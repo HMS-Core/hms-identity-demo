@@ -1,12 +1,12 @@
 # Huawei Identity Demo
 
-English | [中文](https://github.com/HMS-Core/hms-identity-demo/blob/master/README_ZH.md)
+English | [中文](README_ZH.md)
 
-The demo App demonstrates Huawei Identity client APIs and usages. 
+The demo App demonstrates Identity Kit client APIs and usages. 
 
 Documentation can be found at this 
 
-[link](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/about-the-service).
+[link](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050040471).
 
 
 ## Table Of Content
@@ -24,7 +24,7 @@ Documentation can be found at this
 
 ## Introduction
 
-The demo implements the HUAWEI Identity API to obtain the user address interface, and assembles and returns the selected address information to the interface.
+The demo implements the Identity Kit API to obtain the user address interface, and assembles and returns the selected address information to the interface.
 
 
 ## Environment requirement
@@ -33,7 +33,7 @@ The demo implements the HUAWEI Identity API to obtain the user address interface
 
 To be able to develop, build and debug this demo, you will need at least the following environment:
 
-* a connection to Internet, for downloading package dependencies form Huawei and Google
+* a connection to Internet, for downloading package dependencies form HUAWEI and Google
 
 * a compatible IDE, Android Studio is recommended.
 
@@ -61,8 +61,8 @@ If the HMS is missing, the device will prompt you to install or upgrade HMS firs
 
 This demo come with pre-configured `agconnect-services.json`, HMS dependencies, signing keys and
 in-app products. These pre-configured settings are for demo purpose only, please refer to the 
-[Documentation](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/about-the-service)
-for guide of adopting Huawei Identity.
+[Documentation](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050040471)
+for guide of adopting Identity Kit.
 
 
 ## Tutorial
@@ -91,7 +91,7 @@ for guide of adopting Huawei Identity.
 If you want to evaluate more about HMS Core, [r/HMSCore on Reddit](https://www.reddit.com/r/HuaweiDevelopers/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
 
 If you have questions about how to use HMS samples, try the following options:
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services) is the best place for any programming questions. Be sure to tag your question with 
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services?tab=Frequent) is the best place for any programming questions. Be sure to tag your question with 
 `huawei-mobile-services`.
 - [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core Module is great for general questions, or seeking recommendations and opinions.
 
