@@ -44,7 +44,7 @@ To be able to develop, build and debug this demo, you will need at least the fol
 
 ### Runtime requirement
 
-To be able to run this demo, you will need an Android device with EMUI 5.0 or above, 
+To be able to run this demo, you will need an Android device with EMUI 3.0 or above, 
 Android 4.4 and above, with Huawei Mobile Service (HMS) pre-installed.
 
 If the HMS is missing, the device will prompt you to install or upgrade HMS first on calling Identity SDK.
@@ -55,14 +55,6 @@ If the HMS is missing, the device will prompt you to install or upgrade HMS firs
 1. Clone or download this project and open the downloaded folder in Android Studio or compatible IDE.
 
 2. use IDE's functionality to install configured project on to your device.
-
-
-## Configuration
-
-This demo come with pre-configured `agconnect-services.json`, HMS dependencies, signing keys and
-in-app products. These pre-configured settings are for demo purpose only, please refer to the 
-[Documentation](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050040471)
-for guide of adopting Identity Kit.
 
 
 ## Tutorial
