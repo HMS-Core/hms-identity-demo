@@ -41,7 +41,7 @@
 
 ### 运行环境
 
-运行该示例代码需要安卓设备。该设备的EMUI版本为5.0及以上，安卓版本为4.0及以上，并且已预安装了HMS Core(APK)。
+运行该示例代码需要安卓设备。该设备的EMUI版本为3.0及以上，安卓版本为4.4及以上，并且已预安装了HMS Core(APK)。
 
 如果未预安装HMS Core(APK)，设备会在调用用户身份服务SDK时，提示你先安装或者升级HMS Core(APK)。
 
@@ -50,12 +50,6 @@
 1. 克隆或下载此项目，并在Android Studio或者其他兼容的IDE中打开下载的文件夹。
 
 2. 使用IDE的相关功能将配置好的项目安装到设备上。
-
-
-## 配置
-
-本示例代码预置了agconnect-services.json，HMS依赖项，签名密钥，和应用内商品。这些预置项仅用于该示例代码。具体参见[用户身份服务指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050040471)。
-
 
 ## 使用示例
 
