@@ -16,7 +16,6 @@ Documentation can be found at this
   - [develop requirement](#develop-requirement)
   - [Runtime requirement](#runtime-requirement)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Tutorial](#tutorial)
 - [Code Examples](#code-examples)
 - [License](#license)  
