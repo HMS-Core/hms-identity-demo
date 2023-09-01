@@ -72,7 +72,7 @@ If the HMS is missing, the device will prompt you to install or upgrade HMS firs
 1. Instantiate the request object by using the **new UserAddressRequest** method. Then, call the **getUserAdddress** API.
    The code location is in the getUserAddress method in the `src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java` file.
 
-2. Display the address selection page by calling the **startActivityResult** method of **Status**.
+2. Display the address selection page by calling the **startResolutionForResult** method of **Status**.
    The code location is in the startActivityForResult method in the `src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java` file.
 
 3. After the user selects an address, call the **parseIntent** method of **UserAddress** in **onActivityResult** of the page and obtain the address from the returned result.
