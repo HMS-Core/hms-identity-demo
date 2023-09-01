@@ -65,7 +65,7 @@
 
 1. 通过**new UserAddressRequest**方法实例化request对象。然后调用**getUserAdddress**接口。代码位于src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java文件的getUserAddress方法中。
 
-2. 通过调用**Status**的**startActivityResult**方法展示地址选择页面。代码位于src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java文件的startActivityForResult方法中。
+2. 通过调用**Status**的**startResolutionForResult**方法展示地址选择页面。代码位于src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java文件的startActivityForResult方法中。
 
 3. 用户选择地址后，调用页面的**onActivityResult**中**UserAddress**的**parseIntent**方法，从返回结果中获取地址。代码位于src/app/src/main/java/com/huawei/demo/identitydemo/MainActivity.java文件的onActivityResult方法中。
 
